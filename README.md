@@ -161,7 +161,8 @@ Construa um gráfico mostrando o **tempo de execução em função do número de
 
 Inserir o gráfico abaixo:
 
-![Gráfico Tempo Execução](graficos/tempo_execucao.png)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/af116a95-aa26-497d-9660-1f7e1abdd3e0" />
+
 
 ---
 
@@ -177,7 +178,8 @@ Construa um gráfico mostrando o **speedup obtido**.
 
 Inserir o gráfico abaixo:
 
-![Gráfico Speedup](graficos/speedup.png)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/fdf31ad8-9dcf-4298-a720-5a9a51866943" />
+
 
 ---
 
@@ -193,7 +195,8 @@ Construa um gráfico mostrando a **eficiência da paralelização**.
 
 Inserir o gráfico abaixo:
 
-![Gráfico Eficiência](graficos/eficiencia.png)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/b0dff5f6-e84c-4b1b-ae6b-3dca3df5bda8" />
+
 
 ---
 
